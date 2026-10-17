@@ -177,6 +177,25 @@
       footer p { margin: 0 0 0.35rem; }
       footer .translation { font-size: 0.82rem; font-style: italic; }
 
+      /* ---------- Home pill ---------- */
+      .home-pill {
+        position: fixed;
+        top: calc(0.7rem + env(safe-area-inset-top, 0px));
+        right: calc(0.7rem + env(safe-area-inset-right, 0px));
+        z-index: 10;
+        display: inline-block;
+        padding: 0.32rem 0.8rem;
+        background: var(--quote-bg);
+        border: 1px solid var(--rule);
+        border-radius: 999px;
+        box-shadow: 0 2px 10px var(--shadow);
+        font-size: 0.85rem;
+        line-height: 1.4;
+        color: var(--accent);
+        text-decoration: none;
+      }
+      .home-pill:hover { border-color: var(--quote-border); }
+
       @media (min-width: 640px) {
         .page { padding: 3.5rem 2rem 3.5rem; }
         blockquote { padding: 1.35rem 1.6rem 1.4rem 1.7rem; }
@@ -184,6 +203,7 @@
     </style>
   </head>
   <body>
+    <a class="home-pill" href="https://jesuslovestyler.com/">⌂ Home</a>
     <main class="page">
 
       <figure class="hero">
@@ -270,5 +290,6 @@
       </footer>
 
     </main>
+    <script data-goatcounter="https://jesuslovestyler.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   </body>
 </html>

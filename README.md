@@ -1,7 +1,8 @@
-# Come Home
+# Come Home to God
 
-Luke 15's three parables — the lost sheep, the lost coin, and the son whose father ran — in the World English Bible, for anyone who has wandered.
+An invitation page for anyone who feels far from God: the Father is waiting, the door is open, and the verses here say so. A warm welcome home, in Scripture's own words.
 
-https://jesuslovestyler.github.io/Come-home/
+**Live:** https://jesuslovestyler.github.io/Come-home/
+**Home:** https://jesuslovestyler.com/
 
-Made by Noki for Tyler. Public domain — share freely.
+Scripture is quoted from the World English Bible, a public-domain translation. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
